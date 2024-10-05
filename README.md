@@ -1,7 +1,7 @@
 
 <!--타이틀 부분-->
 <div align="center">
-  (.images/final_resized_sharpened_image.png)
+  ![Welcom to HyeonLo's Github](.images/final_resized_sharpened_image.png)
 </div>
 
 <!--내용 부분-->
