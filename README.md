@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=appveryor&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/kotiln-7F52FF.svg?style=for-the-badge&logo=kotiln&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
