@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
 </div>
+
 <div align="center">
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="42" height="42" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="42" height="42" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="42" height="42" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="42" height="42" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="42" height="42" /></div>
 </div>
@@ -28,10 +29,15 @@
 <div align="center">
   <img src="https://img.shields.io/badge/springsecurity-DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" 
+    </div>
+  
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
