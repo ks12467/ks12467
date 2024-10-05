@@ -50,7 +50,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://tistory.com/ks12467">
+  <a href="https://ks12467.tistory.com">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
   <a href="best847283@gmail.com">
@@ -58,7 +58,7 @@
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-profile
+
 
 
 
