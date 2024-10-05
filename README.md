@@ -1,6 +1,6 @@
 
 <!--타이틀 부분-->
-<div>
+<div align="center">
   <img src="./images/final_resized_sharpened_image.png">
 </div>
 
