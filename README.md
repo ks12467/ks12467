@@ -16,6 +16,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
 </div>
 <div align="center">
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="42" height="42" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="42" height="42" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="42" height="42" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="42" height="42" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="42" height="42" /></div>
