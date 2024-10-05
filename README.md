@@ -20,7 +20,7 @@
 <br>
 <div style="display: flex; align=center;">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="42" height="42" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="42" height="42" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="42" height="42" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="42" height="42" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="42" height="42" /></div>
-
+<br>
 
 
 <h3 align="center">📚 Studying 📚</h3>
