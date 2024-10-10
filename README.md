@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=appveryor&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
+  
 </div>
 
 
@@ -27,6 +27,7 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/springsecurity-DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
