@@ -25,7 +25,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />&nbsp
-
+  <img src="https://img.shields.io/badge/LOGSTASH-D6D251?style=flat-square&logo=LOGSTASH&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
@@ -74,6 +74,10 @@
     <img
       src="https://img.shields.io/badge/best847283@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+  <img
+      src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>&nbsp
+  <img
+      src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp
 </div>
 
 
